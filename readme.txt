@@ -8,3 +8,10 @@ Creating a new branch is quick & simple.
 =======
 Creating a new branch is quick AND simple.
 >>>>>>> feature1
+
+11
+22
+33
+44
+55
+66
